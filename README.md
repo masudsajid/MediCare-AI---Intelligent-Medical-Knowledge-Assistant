@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MediCare AI](ui_screenshot.png)
+![MediCare AI](Capture.PNG)
 
 **An advanced RAG-powered medical chatbot that provides intelligent healthcare information through sophisticated AI technology.**
 
