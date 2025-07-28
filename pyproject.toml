@@ -1,0 +1,59 @@
+[project]
+name = "medical-rag-chatbot"
+version = "0.1.0"
+description = "Medical Research Chatbot using LLM and Pinecone"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "sentence-transformers==4.1.0",
+    "langchain==0.3.26",
+    "flask==3.1.1",
+    "pypdf==5.6.1",
+    "python-dotenv==1.1.0",
+    "langchain-pinecone==0.2.8",
+    "langchain-community==0.3.26",
+    "langchain-openai==0.3.24",
+    "langchain-huggingface",
+    "langchain-google-genai",
+    "langchain-core",
+    "langchain-groq",
+    "ipykernel",
+    "cassio",
+    "pinecone-client",
+    "langchain-text-splitters"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.poetry]
+name = "medical-rag-chatbot"
+version = "0.1.0"
+description = "Medical Research Chatbot using LLM and Pinecone"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.14"
+sentence-transformers = "4.1.0"
+langchain = "0.3.26"
+flask = "3.1.1"
+pypdf = "5.6.1"
+python-dotenv = "1.1.0"
+langchain-pinecone = "0.2.8"
+langchain-community = "0.3.26"
+langchain-openai = "0.3.24"
+langchain-huggingface = "*"
+langchain-google-genai = "*"
+langchain-core = "*"
+langchain-groq = "*"
+ipykernel = "*"
+cassio = "*"
+pinecone-client = "*"
+langchain-text-splitters = "*"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.0"
+black = "^23.0"
+flake8 = "^6.0"
