@@ -50,7 +50,7 @@ MediCare AI is a sophisticated medical knowledge assistant built using **Retriev
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/masudsajid/medicare-ai-chatbot.git
+git clone https://github.com/masudsajid/MediCare-AI---Intelligent-Medical-Knowledge-Assistant.git
 cd medicare-ai-chatbot
 ```
 
@@ -222,6 +222,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <p>
     <a href="#-overview">Back to Top</a> •
     <a href="mailto:masudsajid38@gmail.com">Contact</a> •
-    <a href="https://github.com/masudsajid/medicare-ai-chatbot/issues">Report Bug</a>
   </p>
 </div>
