@@ -221,7 +221,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <p>Built with ❤️ for better healthcare information accessibility</p>
   <p>
     <a href="#-overview">Back to Top</a> •
-    <a href="mailto:your.email@example.com">Contact</a> •
-    <a href="https://github.com/yourusername/medicare-ai-chatbot/issues">Report Bug</a>
+    <a href="mailto:masudsajid38@gmail.com">Contact</a> •
+    <a href="https://github.com/masudsajid/medicare-ai-chatbot/issues">Report Bug</a>
   </p>
 </div>
