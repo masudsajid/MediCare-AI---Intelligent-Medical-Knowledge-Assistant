@@ -50,7 +50,7 @@ MediCare AI is a sophisticated medical knowledge assistant built using **Retriev
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/medicare-ai-chatbot.git
+git clone https://github.com/masudsajid/medicare-ai-chatbot.git
 cd medicare-ai-chatbot
 ```
 
